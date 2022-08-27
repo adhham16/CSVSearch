@@ -1,0 +1,5 @@
+{
+    "require": {
+        "shuchkin/simplecsv": "^0.1.1"
+    }
+}
